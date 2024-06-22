@@ -35,6 +35,8 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 **Software Engineer**  
 *November 2022 - May 2024*
 
+[<img src="./images/melissa_spiegel_Indeed_logo.png" width="100"/>](./images/melissa_spiegel_Indeed_logo.png)
+
 - Collaborated with cross-functional teams, including product managers and stakeholders, to build Indeed’s Design System focusing on the architecture of reusable components and modern CSS design principles, ensuring scalability and maintainability. This involved defining component standards, documentation, and integration into the existing infrastructure.
 - Influenced the team to integrate WCAG testing into our GitLab CI/CD pipelines, enhancing our commitment to accessibility and ensuring compliance across all web components. Provided guidance and best practices, fostering a culture of inclusivity and accessibility within the development team.
 - Implemented robust unit tests (Mocha, Jest) and end-to-end visual regression tests (Playwright), enhancing code reliability and deployment efficiency through CI/CD integration.
