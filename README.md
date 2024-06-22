@@ -59,7 +59,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 #### Massachusetts Institute of Technology (MIT) - Cambridge, Massachusetts
 **Web Developer**
 
-[<img src="./images/melissa_spiegel_mit.svg" width="150"/>](melissa_spiegel_mit.svg)
+[<img src="./images/melissa_spiegel_mit.svg" width="150"/>](./images/melissa_spiegel_mit.svg)
 
 - Developed and maintained internal developer documentation, improving accessibility and usability for non-technical staff.
 - Engineered content editing solutions specifically designed for non-technical library staff.
@@ -73,7 +73,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 
 **Certified Professional in Accessibility Core Competencies (CPACC)**  
 
-[<img src="./images/melissa_spiegel_wcag_certified.png" width="150"/>](melissa_spiegel_wcag_certified.png)
+[<img src="./images/melissa_spiegel_wcag_certified.png" width="150"/>](./images/melissa_spiegel_wcag_certified.png)
 
 *IAAP - International Association of Accessibility Professionals*  
 Issued Mar 2022 · Expires Mar 2025
@@ -87,7 +87,7 @@ Issued Mar 2022 · Expires Mar 2025
 
 **Medium Author**
 
-[<img src="./images/melissa_spiegel_medium_author.png" width="150"/>](melissa_spiegel_medium_author.png)
+[<img src="./images/melissa_spiegel_medium_author.png" width="150"/>](./images/melissa_spiegel_medium_author.png)
 
 - A medium author who provides insightful articles on software design patterns, web accessibility, and modern web technologies.
 - [Medium Profile](https://medium.com/@melissarspiegel)
