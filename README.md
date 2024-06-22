@@ -23,7 +23,6 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
     <td valign="top" width="80"><img src="https://img.icons8.com/?size=100&id=12599&format=png&color=9A9A9A" width="40" alt="Location logo"/></td>
     <td width="749"><strong>GitHub:</strong> 
       <a href="https://github.com/melissaspiegel">Profile for Melissa Spiegel</a></td>
-    </td>
   </tr>
 </table>
 
