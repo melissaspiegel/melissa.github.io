@@ -130,7 +130,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
     </tr>
 </table>
 
-#### Massachusetts Institute of Technology (MIT) - Cambridge, Massachusetts
+### Massachusetts Institute of Technology (MIT) - Cambridge, Massachusetts
 
 <table>
   <tr>
