@@ -87,7 +87,7 @@ Issued Mar 2022 · Expires Mar 2025
 
 **Medium Author**
 
-[<img src="./images/melissa_spiegel_medium_author.png" width="100"/>](./images/melissa_spiegel_medium_author.png)
+[<img src="./images/melissa_spiegel_medium_author.png" width="80"/>](./images/melissa_spiegel_medium_author.png)
 
 - A medium author who provides insightful articles on software design patterns, web accessibility, and modern web technologies.
 - [Medium Profile](https://medium.com/@melissarspiegel)
