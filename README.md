@@ -100,7 +100,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 
 <table>
   <tr>
-    <td width="100" valign="top"><img src="./images/melissa_spiegel_Indeed_logo.png" alt="Indeed logo"/></td>
+    <td width="80" valign="top"><img src="./images/melissa_spiegel_Indeed_logo.png" alt="Indeed logo"/></td>
     <td width="749">
       <strong>Software Engineer</strong> <br>
       November 2022 - May 2024<br>
@@ -117,7 +117,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 
 <table>
   <tr>
-    <td valign="top" width="100" valign="top"><img src="./images/melissa_spiegel_perficient.jpeg" alt="Perficient logo"/></td>
+    <td valign="top" width="80" valign="top"><img src="./images/melissa_spiegel_perficient.jpeg" alt="Perficient logo"/></td>
     <td width="749">
       <strong>Web Developer Contractor for Indeed.com</strong> <br>
       November 2019 - November 2022<br>
@@ -134,7 +134,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 
 <table>
   <tr>
-    <td width="100" valign="top"><img src="./images/melissa_spiegel_MIT.png" alt="MIT logo"/></td>
+    <td width="80" valign="top"><img src="./images/melissa_spiegel_MIT.png" alt="MIT logo"/></td>
     <td width="749">
     <strong>Web Developer</strong> <br>
     May 2016 - November 2019<br>
@@ -149,7 +149,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 ## Certifications
 <table>
   <tr>
-    <td width="100" valign="top"><img src="./images/melissa_spiegel_wcag_certified.png" alt="IAAP logo" /></td>
+    <td width="80" valign="top"><img src="./images/melissa_spiegel_wcag_certified.png" alt="IAAP logo" /></td>
     <td width="749">
       <strong>Certified Professional in Accessibility Core Competencies (CPACC)</strong><br><br>
       <em>IAAP - International Association of Accessibility Professionals</em><br>
@@ -163,7 +163,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 
 <table>
   <tr>
-    <td width="100" valign="top">
+    <td width="80" valign="top">
     <img src="https://img.icons8.com/?size=100&id=9496&format=png&color=000000" alt="University logo"/> <br>
     </td>
     <td width="749">
