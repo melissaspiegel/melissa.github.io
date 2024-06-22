@@ -25,71 +25,71 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 
 <table>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="TypeScript icon"/></td>
     <td>Technologies: TypeScript, JavaScript, Node.js, HTML5, PHP, Python</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=sOWbK4N3cxGh&format=png&color=000000" alt="Webpack icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=sOWbK4N3cxGh&format=png&color=000000" alt="Webpack icon"/></td>
     <td>Build Tools: Webpack, Grunt</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=24895&format=png&color=000000" alt="npm icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=24895&format=png&color=000000" alt="npm icon"/></td>
     <td>Package Management: npm</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git icon"/></td>
     <td>Versioning: Git, GitHub, GitLab</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=50899&format=png&color=9A9A9A" alt="Collaboration icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=50899&format=png&color=9A9A9A" alt="Collaboration icon"/></td>
     <td>Collaboration: Mob coding, peer code reviews</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/color/48/000000/document.png" alt="Documentation icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=HT2GWwyCbMNE&format=png&color=000000" alt="Documentation icon"/></td>
     <td>Technical Documentation: Skilled in creating clear documentation</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker icon"/></td>
     <td>Containerization: Docker</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=19293&format=png&color=000000" alt="Code Quality icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=19293&format=png&color=000000" alt="Code Quality icon"/></td>
     <td>Code Quality: High standards of code quality and readability</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=63223&format=png&color=000000" alt="Accessibility icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=63223&format=png&color=000000" alt="Accessibility icon"/></td>
     <td>Accessibility: WCAG Certified, VoiceOver (VO), Accessibility Conformance Report (ACR)</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=OI6BowItHaZ4&format=png&color=000000" alt="Design Patterns icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=OI6BowItHaZ4&format=png&color=000000" alt="Design Patterns icon"/></td>
     <td>Design Patterns: Model-View-Presenter (MVP)</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Design Systems icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Design Systems icon"/></td>
     <td>Design Systems: Collaborated with the Indeed WebX Team to develop Indeed's Design System, focusing on architecture and modern CSS design principles</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" alt="CI/CD icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" alt="CI/CD icon"/></td>
     <td>CI/CD: GitLab, Jenkins</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=37628&format=png&color=000000" alt="Testing icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=37628&format=png&color=000000" alt="Testing icon"/></td>
     <td>Testing: Unit, PHPUnit, Mocha, Jest, Visual Regression testing with Playwright</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=RBnCyho7WRn7&format=png&color=000000" alt="Linting icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=RBnCyho7WRn7&format=png&color=000000" alt="Linting icon"/></td>
     <td>Linting: ESLint, Stylelint</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS icon"/></td>
     <td>Preprocessing: SASS, LESS</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Agile icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" alt="Agile icon"/></td>
     <td>Methodologies: Agile, scrum</td>
   </tr>
   <tr>
-    <td width="50"><img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" alt="Communication icon"/></td>
+    <td width="80"><img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" alt="Communication icon"/></td>
     <td>Communication: Strong support skills via Zoom, Slack, and documentation</td>
   </tr>
 </table>
