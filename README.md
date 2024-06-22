@@ -101,7 +101,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 <table>
   <tr>
     <td width="100" valign="top"><img src="./images/melissa_spiegel_Indeed_logo.png" alt="Indeed logo"/></td>
-    <td width="500">
+    <td width="749">
       <strong>Software Engineer</strong> <br>
       November 2022 - May 2024<br>
       <ul>
@@ -118,7 +118,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 <table>
   <tr>
     <td valign="top" width="100" valign="top"><img src="./images/melissa_spiegel_perficient.jpeg" alt="Perficient logo"/></td>
-    <td width="500">
+    <td width="749">
       <strong>Web Developer Contractor for Indeed.com</strong> <br>
       November 2019 - November 2022<br>
         <ul>
@@ -135,7 +135,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 <table>
   <tr>
     <td width="100" valign="top"><img src="./images/melissa_spiegel_MIT.png" alt="MIT logo"/></td>
-    <td width="500">
+    <td width="749">
     <strong>Web Developer</strong> <br>
     May 2016 - November 2019<br>
       <ul>
@@ -150,7 +150,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 <table>
   <tr>
     <td width="100" valign="top"><img src="./images/melissa_spiegel_wcag_certified.png" alt="IAAP logo" /></td>
-    <td width="500">
+    <td width="749">
       <strong>Certified Professional in Accessibility Core Competencies (CPACC)</strong><br><br>
       <em>IAAP - International Association of Accessibility Professionals</em><br>
       Issued Mar 2022 · Expires Mar 2025<br>
@@ -167,7 +167,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
     <div>
     <img src="https://img.icons8.com/?size=100&id=9496&format=png&color=000000" alt="University logo"/>
     </td>
-    <td width="500">
+    <td width="749">
       <strong>Bachelors of Science (BS)</strong><br>
       University of Massachusetts - Lowell, Massachusetts
     </td>
