@@ -5,9 +5,12 @@
 Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of experience in full-stack web development and cross-functional team collaboration. Proficient in TypeScript, JavaScript, and Model-View-Presenter (MVP) Design Patterns. Dedicated to improving developer productivity through innovative solutions, robust testing frameworks, and detailed technical documentation.
 
 **Contact Information:**
-- **Phone:** 937-829-3658
-- **Email:** [mrspiegel@me.com](mailto:mrspiegel@me.com)
-- **Location:** Jupiter Farms, Florida USA
+
+
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/melissaspiegel/) **LinkedIn:** [Melissa Spiegel](https://www.linkedin.com/in/melissaspiegel/)
+- [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:mrspiegel@me.com) **Email:** mrspiegel@me.com
+- [![Location](https://img.icons8.com/color/48/000000/marker.png)](https://www.google.com/maps/place/Jupiter+Farms,+Florida) **Location:** Jupiter Farms, Florida USA
+
 
 ## Skills
 
@@ -43,7 +46,8 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 - Enhanced CI/CD pipelines, reducing build times by 30% and improving test coverage by 25%.
 
 ### Perficient Digital - Remote
-**WordPress Developer Contractor for Indeed.com**  
+**WordPress Developer Contractor for Indeed.com** 
+
 *November 2019 - March 2020*
 
 - Contributed to internal developer tools and documentation, enhancing team productivity and code quality.
