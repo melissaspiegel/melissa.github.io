@@ -59,7 +59,8 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 #### Massachusetts Institute of Technology (MIT) - Cambridge, Massachusetts
 **Web Developer**
 
-![alt text](images/svgexport-4.png)
+![alt text](images/MIT.svg)
+
 - Developed and maintained internal developer documentation, improving accessibility and usability for non-technical staff.
 - Engineered content editing solutions specifically designed for non-technical library staff.
 
