@@ -163,9 +163,8 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 
 <table>
   <tr>
-    <td valign="top">
-    <div>
-    <img src="https://img.icons8.com/?size=100&id=9496&format=png&color=000000" alt="University logo"/>
+    <td width="100" valign="top">
+    <img src="https://img.icons8.com/?size=100&id=9496&format=png&color=000000" alt="University logo"/> <br>
     </td>
     <td width="749">
       <strong>Bachelors of Science (BS)</strong><br>
