@@ -1,6 +1,3 @@
-# Ignore macOS DS_Store files
-.DS_Store
-
 # Node.js dependencies
 node_modules/
 
@@ -30,6 +27,3 @@ temp/
 
 # Environment variables
 .env
-
-# Ignore images directory (for example purposes)
-images/
