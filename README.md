@@ -1,9 +1,6 @@
 # Welcome to Melissa Spiegel’s Portfolio
 
 ## About Me
-# Welcome to Melissa Spiegel's Portfolio
-
-## About Me
 
 Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of experience in full-stack web development and cross-functional team collaboration. Proficient in TypeScript, JavaScript, and Model-View-Presenter (MVP) Design Patterns. Dedicated to improving developer productivity through innovative solutions, robust testing frameworks, and detailed technical documentation.
 
@@ -62,6 +59,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 #### Massachusetts Institute of Technology (MIT) - Cambridge, Massachusetts
 **Web Developer**
 
+![alt text](images/svgexport-4.png)
 - Developed and maintained internal developer documentation, improving accessibility and usability for non-technical staff.
 - Engineered content editing solutions specifically designed for non-technical library staff.
 
@@ -73,6 +71,8 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 ## Certification
 
 **Certified Professional in Accessibility Core Competencies (CPACC)**  
+
+
 *IAAP - International Association of Accessibility Professionals*  
 Issued Mar 2022 · Expires Mar 2025
 [View Credential](https://www.credly.com/badges/460a39e0-ae3a-46eb-8e42-c5ab42ed919f)
