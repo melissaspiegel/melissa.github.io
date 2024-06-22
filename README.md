@@ -85,6 +85,6 @@ Issued Mar 2022 · Expires Mar 2025
 - Worked with various mentors on software architecture, accessibility, and project management.
 
 **Medium Author**
-
+![alt text](logo.png)
 - A medium author who provides insightful articles on software design patterns, web accessibility, and modern web technologies.
 - [Medium Profile](https://medium.com/@melissarspiegel)
