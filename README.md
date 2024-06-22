@@ -98,10 +98,10 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 
 ### Indeed.com - Remote
 
-<table style="border: none;">
+<table>
   <tr>
     <td width="100" valign="top"><img src="./images/melissa_spiegel_Indeed_logo.png" alt="Indeed logo"/></td>
-    <td>
+    <td width="500">
       <strong>Software Engineer</strong> <br>
       November 2022 - May 2024<br>
       <ul>
@@ -113,14 +113,12 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
   </tr>
 </table>
 
-<hr>
-
 ### Perficient Digital - Remote
 
-<table style="border: none;">
+<table>
   <tr>
     <td valign="top" width="100" valign="top"><img src="./images/melissa_spiegel_perficient.jpeg" alt="Perficient logo"/></td>
-    <td>
+      <td width="500">
       <strong>Web Developer Contractor for Indeed.com</strong> <br>
       November 2019 - November 2022<br>
         <ul>
@@ -131,11 +129,10 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
     </td>
     </tr>
 </table>
-<hr>
 
 #### Massachusetts Institute of Technology (MIT) - Cambridge, Massachusetts
 
-<table style="border: none;">
+<table>
   <tr>
     <td width="100" valign="top"><img src="./images/melissa_spiegel_MIT.png" alt="MIT logo"/></td>
     <td>
@@ -150,10 +147,10 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 </table>
 
 ## Certifications
-<table style="border: none;">
+<table>
   <tr>
     <td width="100" valign="top"><img src="./images/melissa_spiegel_wcag_certified.png" alt="IAAP logo" /></td>
-    <td>
+      <td width="500">
       <strong>Certified Professional in Accessibility Core Competencies (CPACC)</strong><br><br>
       <em>IAAP - International Association of Accessibility Professionals</em><br>
       Issued Mar 2022 · Expires Mar 2025<br>
