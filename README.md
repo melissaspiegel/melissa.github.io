@@ -83,13 +83,17 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 
 ## Certification
 
-**Certified Professional in Accessibility Core Competencies (CPACC)**  
-
-<img src="./images/melissa_spiegel_wcag_certified.png" width="100" alt="IAAP logo" />
-
-*IAAP - International Association of Accessibility Professionals*  
-Issued Mar 2022 · Expires Mar 2025
-[View Credential](https://www.credly.com/badges/460a39e0-ae3a-46eb-8e42-c5ab42ed919f)
+<table>
+  <tr>
+    <td><img src="./images/melissa_spiegel_wcag_certified.png" width="150" alt="IAAP logo" /></td>
+    <td>
+      <strong>Certified Professional in Accessibility Core Competencies (CPACC)</strong><br><br>
+      <em>IAAP - International Association of Accessibility Professionals</em><br>
+      Issued Mar 2022 · Expires Mar 2025<br>
+      <a href="https://www.credly.com/badges/460a39e0-ae3a-46eb-8e42-c5ab42ed919f">View Credential</a>
+    </td>
+  </tr>
+</table>
 
 ## Additional Activities
 
@@ -97,9 +101,14 @@ Issued Mar 2022 · Expires Mar 2025
 
 - Worked with various mentors on software architecture, accessibility, and project management.
 
-**Medium Author**
+## Medium Author
 
-<img src="./images/melissa_spiegel_medium_author.png" width="50" alt="medium logo" />
-
-- A medium author who provides insightful articles on software design patterns, web accessibility, and modern web technologies.
-- [Medium Profile](https://medium.com/@melissarspiegel)
+<table>
+  <tr>
+    <td><img src="./images/melissa_spiegel_medium_author.png" width="1000" alt="medium logo" /></td>
+    <td>
+      - A medium author who provides insightful articles on software design patterns, web accessibility, and modern web technologies.<br>
+      - [Medium Profile](https://medium.com/@melissarspiegel)
+    </td>
+  </tr>
+</table>
