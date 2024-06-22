@@ -7,9 +7,13 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 **Contact Information:**
 
 
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/melissaspiegel/) **LinkedIn:** [Melissa Spiegel](https://www.linkedin.com/in/melissaspiegel/)
-- [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:mrspiegel@me.com) **Email:** mrspiegel@me.com
-- [![Location](https://img.icons8.com/color/48/000000/marker.png)](https://www.google.com/maps/place/Jupiter+Farms,+Florida) **Location:** Jupiter Farms, Florida USA
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/melissaspiegel/) **LinkedIn:** [Melissa Spiegel](https://www.linkedin.com/in/melissaspiegel/)
+
+[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:mrspiegel@me.com) **Email:** mrspiegel@me.com
+
+[![Location](https://img.icons8.com/color/48/000000/marker.png)](https://www.google.com/maps/place/Jupiter+Farms,+Florida) **Location:** Jupiter Farms, Florida
+
+
 
 
 ## Skills
@@ -46,7 +50,9 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 - Enhanced CI/CD pipelines, reducing build times by 30% and improving test coverage by 25%.
 
 ### Perficient Digital - Remote
-**WordPress Developer Contractor for Indeed.com** 
+**Web Developer Contractor for Indeed.com** 
+
+[<img src="./images/melissa_spiegel_perficient.jpeg" width="100"/>](./images/melissa_spiegel_perficient.jpeg)
 
 *November 2019 - March 2020*
 
