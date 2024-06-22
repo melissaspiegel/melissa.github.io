@@ -52,7 +52,7 @@ Hello! I'm Melissa Spiegel, a skilled software engineer with over nine years of 
 ### Perficient Digital - Remote
 **Web Developer Contractor for Indeed.com** 
 
-[<img src="./images/melissa_spiegel_perficient.jpeg" width="100"/>](./images/melissa_spiegel_perficient.jpeg)
+[<img src="./images/melissa_spiegel_perficient.jpeg" width="80"/>](./images/melissa_spiegel_perficient.jpeg)
 
 *November 2019 - March 2020*
 
